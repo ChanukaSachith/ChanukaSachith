@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanuka Sachith</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="600" src="https://www.codingthesmartway.com/_astro/title.7ce8483b_1Mx8VT.png">
+<img align="right" alt="coding" width="500" src="https://www.codingthesmartway.com/_astro/title.7ce8483b_1Mx8VT.png">
 
 - 📫 How to reach me **chanukathilakarathna333@gmail.com**
 
